@@ -46,26 +46,26 @@ Whether or not this one small course based project was an experiential opportuni
 
 Crawford, M.
 
-2015. _The World Beyond Your Head: On Becoming an Individual in an Age of Distraction._ Penguin: Toronto.
+2015 _The World Beyond Your Head: On Becoming an Individual in an Age of Distraction._ Penguin: Toronto.
 
 Ingold, T.
 
-2007. "Materials Against Materiality". _Archaeological Dialogues_ 14.1: 1-16.
+2007 "Materials Against Materiality". _Archaeological Dialogues_ 14.1: 1-16.
 
-2011. _Being Alive: Essays on Movement, Knowledge and Description._ Routledge: London.
+2011 _Being Alive: Essays on Movement, Knowledge and Description._ Routledge: London.
 
-2013. _Making: Anthropology, Archaeology, Art and Architecture_. Routledge: London.
+2013 _Making: Anthropology, Archaeology, Art and Architecture_. Routledge: London.
 
 Reilly, P., and Stefan Gant
 
-2016. "Different Expressions of the Same Mode: Apprehending the World Through Practice, and Making a Mark". _TAGSoton, Theoretical Archaeology Group Conference_. Southampton, UK.
+2016 "Different Expressions of the Same Mode: Apprehending the World Through Practice, and Making a Mark". _TAGSoton, Theoretical Archaeology Group Conference_. Southampton, UK.
 
 Wylie, Alison
 
-1989. "Archaeological Cables and Tackin: The Implications of Practice for Bernstein's Options Beyond Objectivism and Relativism". _Philosophy of the Social Sciences_ 19.1:1.
+1989 "Archaeological Cables and Tackin: The Implications of Practice for Bernstein's Options Beyond Objectivism and Relativism". _Philosophy of the Social Sciences_ 19.1:1.
 
-2002. "Archaeological Cables and Tacking: Beyond Objectivism and Relativism" _Thinking from Things: Essays in the PHilosophy of Archaeology_ pp161-167. University of California Press: Berkeley.
+2002 "Archaeological Cables and Tacking: Beyond Objectivism and Relativism" _Thinking from Things: Essays in the PHilosophy of Archaeology_ pp161-167. University of California Press: Berkeley.
 
-_Cover Image_
+_Cover Image_ "Metamorphosis insectorum surinamensium - caption: 'Butterfly and Caterpillar'" [British Library](https://www.flickr.com/photos/britishlibrary/12458734145/)
 
 _Masthead Image_ "Victoria City, 1807, (From Dome of New Parliament Buildings). Image taken from page 25 of '(The Year Book of British Columbia Compendium.) Compiled from the Year Book of British Columbia ... To which is added a chapter ... respecting the Canadian Yukon and Northern territory generally'" [British Library](https://www.flickr.com/photos/britishlibrary/11239640373/)
