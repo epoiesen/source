@@ -1,16 +1,17 @@
 ---
-title: "Interactive Mapping of Archaeological Sites in Victoria: First Response"
-author: 'Carter, William Michael'
-date: 2018-02-26 20:33:56
+title: 'Interactive Mapping of Archaeological Sites in Victoria: First Response'
 cover_index: /imgs/heckadon/response1cover.png
 cover_detail: /imgs/heckadon/11239640373_fde27ccbfc_o.jpg
-doi: "10.22215/epoiesen/2018.3"
-tags:  
+author: "Carter, William Michael"
+doi: 10.22215/epoiesen/2018.3
+tags:
   - mapping
   - making
   - physical computing
   - response
+date: 2018-02-26 20:33:56
 ---
+
 Michael Carter
 _Received 2018-02-22_
 
@@ -32,11 +33,15 @@ Tim Ingold in particular has introduced making and materiality as key pillars in
 
 Matthew Crawford explores how our attention is intentionally fragmented as we are forced through consumption to snack on multiple sources instead of focusing on a single task (Crawford 2015). Yet Interactive Mapping weaves a convincing narrative through a multimodal approach. It is neither snackable nor singularly focused, but a blending of the two, which consumes and engages the user’s attention -  but only at the right time. These are Ecologies of Attention, modes in which we intentionally consume and make-meaning of the world at the moment best suited to our needs (see Crawford 2015 as well as Reilly and Gant 2016).
 
-+ insert Linear Phrasing, Gant, 2016 image
+![Figure 1 - Linear Phrasing, Gant, S. And Reilly, P. 2016](/imgs/heckadon/S_Gant_Linear_Phrasing.jpg)
+
+_Figure 1 - Linear Phrasing, Gant, S. And Reilly, P. 2016. With permission of the authors._
 
 Recently Stefan Gant, an artist in residence at the University of Northampton and Dr. Paul Reilly (who some consider the "father of virtual archaeology"),  presented at the 2016 TAGSoton on their collaborative, co-creation, experiential and innovative art/archaeology project Different expressions of the same mode: apprehending the world through practice, and making a mark (see Reilly and Gant 2016). As with Heckadon et al’s Interactive Mapping, where sound, landscape and materiality played an important role in both the creation and consumption of archaeological meaning-making, Reilly and Gant explored the materiality of archaeological landscapes by the direct vertical filming and audio recording the real-time excavation of the Iron Age Hillfort of Moel-y-Gaer, Bodfari, Vale of Clwyd (Reilly and Gant 2016). Reilly and Gant visually and audio recorded every trowel movement as the site was excavated. In a phenomenological symphony of sound and visual textural trowel strokes, the stratigraphy and the materiality of the landscaped dictated the cadence and gestures that was recorded (see Figure 1) (Reilly and Gant 2016). The outcome was not only a Sonic Stratigraphy (see Figure 2), but a "rematerialization" of the act of making archaeology (see Reilly and Gant 2016).
 
-+ insert Figure 2 - Sonic Stratigraphy (Series S), Gant, 2014-16 image
+![Figure 2 - Sonic Stratigraphy (Series S), Gant, S. 2014-16 (Digital Sonograph)](/imgs/heckadon/S_Gant_Sonic_Stratigraphy.jpg)
+
+_Figure 2 - Sonic Stratigraphy (Series S), Gant, S. 2014-16 (Digital Sonograph. With permission of the author._
 
 Heckadon et al’s Interactive Mapping is transformative because it employs an entrepreneurial approach in facilitating and combining multiple required outcomes into a single substantive deliverable. One would assume that Dr. Cook had the means, opportunity and vision to ensure UVic Anthropology courses could feed into each other. Beth Compton, a research colleague from Western University and Sustainable Archaeology in Ontario, provided the inspiration as Bill Turkel has in the past, to empower students with little or no making experience to explore, fail and eventually construct new knowledge by digital and physical means. Lastly, the Royal BC Museum took a chance and allowed a student inspired, focused and executed pop-up exhibit to be launched under their patronage. An auspicious combination of opportunities which requires foresight, strategic thought and the wishful intention to make it happen.
 
@@ -47,6 +52,10 @@ Whether or not this one small course based project was an experiential opportuni
 Crawford, M.
 
 2015 _The World Beyond Your Head: On Becoming an Individual in an Age of Distraction._ Penguin: Toronto.
+
+Gant,S. and P. Reilly
+
+2017 Different Expressions Of The Same Mode: A Recent Dialogue Between Archaeological And Contemporary Drawing Practices. JVAP, Taylor and Francis Online (Routledge). https://doi.org/10.1080/14702029.2017.1384974
 
 Ingold, T.
 
@@ -64,7 +73,7 @@ Wylie, Alison
 
 1989 "Archaeological Cables and Tackin: The Implications of Practice for Bernstein's Options Beyond Objectivism and Relativism". _Philosophy of the Social Sciences_ 19.1:1.
 
-2002 "Archaeological Cables and Tacking: Beyond Objectivism and Relativism" _Thinking from Things: Essays in the PHilosophy of Archaeology_ pp161-167. University of California Press: Berkeley.
+2002 "Archaeological Cables and Tacking: Beyond Objectivism and Relativism" _Thinking from Things: Essays in the Philosophy of Archaeology_ pp161-167. University of California Press: Berkeley.
 
 _Cover Image_ "Metamorphosis insectorum surinamensium - caption: 'Butterfly and Caterpillar'" [British Library](https://www.flickr.com/photos/britishlibrary/12458734145/)
 
