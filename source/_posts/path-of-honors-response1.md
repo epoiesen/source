@@ -1,18 +1,18 @@
 ---
-title: "Path of Honors: First Response"
+title: 'Path of Honors: First Response'
+cover_index: /imgs/mccall/molcover.png
+cover_detail: /imgs/mccall/11224698395_b8b8228321_k.jpg
 author: "Mol, Angus"
-date: 2018-03-05 20:02:13
-cover_index:
-cover_detail:
-doi: "10.22215/epoiesen/2018.4"
+doi: 10.22215/epoiesen/2018.4
 tags:
-- interactive fiction
-- Response
+  - interactive fiction
+  - Response
+date: 2018-03-05 20:02:13
 ---
 
 Angus Mol
 _Received 2018-03-05_
-Citation: Mol, Angus. Year. "Path of Honors: First Response". _Epoiesen_. DOI: http://dx.doi.org/10.22215/epoiesen/2018.4
+Citation: Mol, Angus. Year. "Path of Honors: First Response". _Epoiesen_. http://dx.doi.org/10.22215/epoiesen/2018.4
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" align="left" /></a><br />
 
@@ -46,17 +46,18 @@ This response to McCall seems to simultaneously have become a response to Ubisof
 
 **Aspect**|**Path of Honors**|**Disco Tour**
 :-----:|:-----:|:-----:
-Fascinating History|+|+
-Open Access|+|-
-Ease of use|+|-
-Interactive|+|-
-Solid references|+|-
-Communicative Developer|+|-
+Fascinating History|&#x1f44d;|&#x1f44d;
+Open Access|&#x1f44d;|&#x1f44e;
+Ease of use|&#x1f44d;|&#x1f44e;
+Interactive|&#x1f44d;|&#x1f44e;
+Solid references|&#x1f44d;|&#x1f44e;
+Communicative Developer|&#x1f44d;|&#x1f44e;
 
+<br>
 Although neither _Path of Honors_ nor _The Disco Tour_ are flawless experiences, if I had to choose which of the pieces of interactive media I think is better at providing a balanced and democratic access to the past: I’d choose _Path of Honors_. That is not to say I think _The Disco Tour_ is not to be valued for what it is or that media like it should not be developed. What I mean to say is that, even with high fidelity, high production value experiences like _Assassin’s Creed_, we need more work like that of McCall. This is why it is a good thing that Jeremiah teaches Twine to his students - and a great idea that I have shamelessly (and to the delight of my students) copied for the course I am currently teaching. The community of Twine storytellers is growing, and I am very excited to see which other interactive narratives like Path of Honors will be created in the coming years.
 
 ## P.S. for those who wish to know or do more with Twine.
-It’s commonly accepted that, if you want to write well, you should read a lot. It logically follows you should play interactive stories if you are interested in writing them. Beyond the area of history, heritage, and archaeology, there are a lot of Twines that go b, I suggest you start with the absolute classic [_Depression Quest_](http://www.depressionquest.com/) by Zoe Quinn. Also be sure to check out Anna Anthropy’s [_Queers in Love at the End of the World_](http://auntiepixelante.com/endoftheworld/) or any of the other quirky, intriguing, silly, or just plain good stories in places such as [twinehub](http://twinehub.weebly.com/) or [itch.io](https://itch.io/games/tag-twine). Many of these creators provide their work for free or through a “pay what you want”-system, so consider supporting them however you can.
+It’s commonly accepted that, if you want to write well, you should read a lot. It logically follows you should play interactive stories if you are interested in writing them. Beyond the area of history, heritage, and archaeology, there Twines of every make and description. I suggest you start with the absolute classic [_Depression Quest_](http://www.depressionquest.com/) by Zoe Quinn. Also be sure to check out Anna Anthropy’s [_Queers in Love at the End of the World_](http://auntiepixelante.com/endoftheworld/) or any of the other quirky, intriguing, silly, or just plain good stories in places such as [twinehub](http://twinehub.weebly.com/) or [itch.io](https://itch.io/games/tag-twine). Many of these creators provide their work for free or through a “pay what you want”-system, so consider supporting them however you can.
 
 Beyond Twine there is a wide world of interactive fiction and, although I have not yet found the time to delve into it myself, I think [Inform7](http://inform7.com/) may be as interesting a tool for interactive history-telling as Twine. If you are interested in reading more on interactive storytelling and keeping up to date with the latest releases, Emily Short’s [blog](https://emshort.blog/) is a great place to start.
 
@@ -77,6 +78,6 @@ Mol, Angus A. A., Csilla E. Ariese-Vandemeulebroucke, Krijn H.J.  Boom, & Aris P
 Morgan, Colleen (guest editor) 2016 Video Games and Archaeology: Part One [Special section]. _SAA Archaeological Record_ 16 (5):9–37
 
 
-_Cover Image_
+_Cover Image_ "Image taken from page 36 of 'Voyageurs anciens et modernes, ou Choix des relations de voyages ... depuis le cinquième siècle avant Jésus-Christ jusqu'au dix-neuvième siècle, avec biographies, notes et indications iconographiques, par M. E. Charton'"[British Library](https://www.flickr.com/photos/britishlibrary/11044060933/)
 
-_Masthead Image_
+_Masthead Image_ "Image taken from page 343 of 'Cassell's Illustrated Universal History.'"[British Library](https://www.flickr.com/photos/britishlibrary/11224698395/)
