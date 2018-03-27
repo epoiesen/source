@@ -1,9 +1,9 @@
 ---
 title: "Contains Scenes of a Graphic Nature: Sympathy for The Devil"
 author: 'Rowe, H Laurel'
-date: 2018-02-26 21:00:14
+date: 2018-03-26 21:00:14
 cover_index: /imgs/rowe/index.png
-cover_detail: /imgs/rowe/banner.png
+cover_detail: /imgs/rowe/banner3.png
 doi: "10.22215/epoiesen/2018.5"
 tags:
   - graphic novel
@@ -40,6 +40,8 @@ Gaskill, Deacon and Cabell focused their attention on Matthew Hopkins, and yet o
 
 I chose John Stearne as the principal focus of the narrative for two reasons. The first being that I felt better able to reconstruct his character from the source material to which I had access than Matthew Hopkins and the second was that Stearne would more easily straddle the line between "hero" and "villain" for contemporary readers. Reading his pamphlet, *A Confirmation, and Discovery of Witches*, I gained the sense that he was a man who believed strongly in what he was doing but was perhaps haunted by some of the decisions which he had made because of his belief. I wanted the reader’s interpretation of characters to be participatory and in constant flux. I felt that readers might have the most difficulty in pinpointing where Stearne fell on the spectrum of hero and villain, believing that how they interpreted his character would be the most revealing of how they interacted with the narrative as a whole.
 
+![study1](/imgs/rowe/study1.jpeg)
+
 ## Women's Voices
 
 The difficulty with focusing all of my attention on Hopkins, Stearne, and Gaule was that I could have erased the role of the witch and the minimal traces of women’s voices from this period of history altogether. The first article Malcolm Gaskill wrote was for the book *Women, Crime and Courts in Early Modern England*, in which he discussed the case of Margaret Moore who was accused and tried for being a witch at the courts of Isle of Ely, Cambridgeshire in 1647. This article took a point of view on the label of "witch" that I found refreshing. Gaskill’s argument sought to show Margaret Moore's agency through her own belief that she was, in fact, a witch. Contemporary representations of the witch-trials in early modern Europe are often saturated with the notion that confessions during the witch-craze were coerced and extracted through means of interrogation and torture, but this attitude loses sight of the fact that the belief in witches was one held by the accused and the accusers. Moore’s confession described an evening when the spirits of her dead children spoke to her and persuaded her into making a pact with the devil to save her last surviving child. (*Transcript of the Confession of Margaret Moore*, 1647) As a "witch" she was able to contextualize the appearance of her dead children within her objective reality. By realigning the context of Moore’s confession with pre-scientific revolution mentalities, being a witch became a form of power that allowed Moore to protect and provide for her family when all other options had been exhausted. Margaret Moore is a relatable figure through her humanity and perceived sacrifice for her family - exchanging her soul to save her child - but in order to accept that she made this sacrifice, one is encouraged to accept her belief in her own magical powers and her participation in the popular belief of the existence of witches during the 17th century.
@@ -66,6 +68,8 @@ When I read Margaret Moore’s testimony and Malcolm Gaskill’s article about h
 <br>
 
 However, I believe because of the frequency with which trauma is sensationalized and extracted for overall narratives of experience (particularly, in narratives about the history of the witchcraze, for example *Witch Hunts: A Graphic History of the Burning Times* by Lisa Morton and Rocky Wood), that a more restrained style does better justice to the historic individuals.
+
+![study2](/imgs/rowe/study2.jpeg)
 
 ## Reflection
 
