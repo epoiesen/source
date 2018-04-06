@@ -16,6 +16,13 @@ Then open it in text editor, fill in all the required information etc. The piece
 
 **Note** in the yaml header, the author key **has** to be between " quotes, not ' quotes. Otherwise the author index doesn't work correctly
 
+NB: if someone insists on doc, can convert with pandoc:
+
+```
+pandoc -f docx -t markdown foo.docx -o foo.markdown
+```
+but note that you'll have to fix line endings.
+
 To put it online though for the individual to check it out, we can do it all sneaky like:
 
 `$ hexo generate --draft`
@@ -26,7 +33,7 @@ Take note of the path for the rendered piece.
 
 - updated hexo and dependencies because of security issues. this seems to have broken the draft generation. On the local server, it stills behaves as expected: the new piece is not in the index or displayed on the front page, but can be accessed via the direct URL. HOWEVER, when pushing to the live server, the draft appears on the index.
 
-So: write in the draft folder, generate draft, then check the generated index.html in the public folder. Remove the div containing the draft if it is there.
+**So: write in the draft folder, generate draft, then check the generated index.html in the public folder. Remove the div containing the draft if it is there.**
 
 If there is a piece that is taking some time to develop, put it in the `_private_drafts` folder and work on it there. This is not optimal, but until I figure out a fix...
 
