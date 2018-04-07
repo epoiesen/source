@@ -35,6 +35,8 @@ Take note of the path for the rendered piece.
 
 **So: write in the draft folder, generate draft, then check the generated index.html in the public folder. Remove the div containing the draft if it is there.**
 
+NB that it'll still appear in the index. (This all occurred when I updated hexo cli. Hopefully the next update will fix whatever this is).
+
 If there is a piece that is taking some time to develop, put it in the `_private_drafts` folder and work on it there. This is not optimal, but until I figure out a fix...
 
 OUTDATED:
