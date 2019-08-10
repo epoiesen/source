@@ -11,7 +11,7 @@ tags:
 ---
 Jeremiah McCall
 _Received 2017-06-02_
-Citation: McCall, Jeremiah. 2017 "Publish and Perish: First Response". _Epoiesen_ http://dx.doi.org/10.22215/epoiesen/2017.7
+Citation: McCall, Jeremiah. 2017. "Publish and Perish: First Response". _Epoiesen_ http://dx.doi.org/10.22215/epoiesen/2017.7
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" align="left" /></a><br />
 
 _Jeremiah McCall teaches at Cincinnati Country Day School (jmc.hst@gmail.com)._

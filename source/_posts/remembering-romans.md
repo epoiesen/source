@@ -18,7 +18,7 @@ doi: "10.22215/epoiesen/2017.9"
 Zena Kamash with Heba Abd el Gawad, Peter Banks, Antonia Bell, Felix Charteris, Sarah Ekdawi, Zoe Glen, Jayne Howe, Arthur Laidlaw, Muna Mitchell, Aditi Nafde, Andrew Parkin, Florence Wilson, Louise Thandiwe Wilson and Amy Wood
 
 _Received 2017-07-11_
-Citation: Kamash, Z with H. Abd el Gawad, P. Banks, A. Bell, F. Charteris, S. Ekdawi, Z. Glen, J. Howe, A. Laidlaw, M. Mitchell, A. Nafde, A. Parkin, F. Wilson, L. Thandiwe Wilson, and A. Wood. 2017 "Remembering the Romans in the Middle East and North Africa: memories and reflections from a museum-based public engagement project". _Epoiesen_ http://dx.doi.org/10.22215/epoiesen/2017.9
+Citation: Kamash, Z with H. Abd el Gawad, P. Banks, A. Bell, F. Charteris, S. Ekdawi, Z. Glen, J. Howe, A. Laidlaw, M. Mitchell, A. Nafde, A. Parkin, F. Wilson, L. Thandiwe Wilson, and A. Wood. 2017. "Remembering the Romans in the Middle East and North Africa: memories and reflections from a museum-based public engagement project". _Epoiesen_ http://dx.doi.org/10.22215/epoiesen/2017.9
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" align="left" /></a><br />
 

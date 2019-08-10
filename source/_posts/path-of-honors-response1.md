@@ -12,7 +12,7 @@ date: 2018-03-05 20:02:13
 
 Angus Mol
 _Received 2018-03-05_
-Citation: Mol, Angus. Year. "Path of Honors: First Response". _Epoiesen_. http://dx.doi.org/10.22215/epoiesen/2018.4
+Citation: Mol, Angus. 2018. "Path of Honors: First Response". _Epoiesen_. http://dx.doi.org/10.22215/epoiesen/2018.4
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" align="left" /></a><br />
 

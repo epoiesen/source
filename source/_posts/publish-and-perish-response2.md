@@ -11,7 +11,7 @@ tags:
 ---
 François Dominic Laramée
 _Received 2017-07-19_
-Citation: Laramée, François Dominic. 2017 "Publish and Perish: Second Response". _Epoiesen_ http://dx.doi.org/10.22215/epoiesen/2017.8
+Citation: Laramée, François Dominic. 2017. "Publish and Perish: Second Response". _Epoiesen_ http://dx.doi.org/10.22215/epoiesen/2017.8
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" align="left" /></a><br />
 
 _François Dominic Laramée is a PhD candidate in (digital) history, Université de Montréal (fdl@francoisdominiclaramee.com). [ORCID: 0000-0001-5542-3754](http://orcid.org/0000-0001-5542-3754)_

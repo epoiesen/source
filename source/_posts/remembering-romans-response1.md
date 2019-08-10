@@ -19,7 +19,7 @@ doi: "10.22215/epoiesen/2017.10"
 ---
 Terence Clark
 _Received 2017-08-01_
-Citation: Clark, Terence. 2017 "Remembering the Romans: First Response". _Epoiesen_ http://dx.doi.org/10.22215/epoiesen/2017.10
+Citation: Clark, Terence. 2017. "Remembering the Romans: First Response". _Epoiesen_ http://dx.doi.org/10.22215/epoiesen/2017.10
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" align="left" /></a><br />
 
 _Terence Clark is an Assistant Professor in the Department of Archaeology and Anthropology, University of Saskatchewan (terence.clark@usask.ca). [ORCID: 0000-0001-5576-9851](http://orcid.org/0000-0001-5576-9851)_

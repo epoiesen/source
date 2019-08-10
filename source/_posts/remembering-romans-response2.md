@@ -19,7 +19,7 @@ doi: "10.22215/epoiesen/2017.11"
 ---
 Gemma Tully
 _Received 2017-09-08_
-Citation: Tully, Gemma. 2017 "Remembering the Romans: Second Response". _Epoiesen_ http://dx.doi.org/10.22215/epoiesen/2017.11
+Citation: Tully, Gemma. 2017. "Remembering the Romans: Second Response". _Epoiesen_ http://dx.doi.org/10.22215/epoiesen/2017.11
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" align="left" /></a><br />
 
 _Dr Gemma Tully is Research Associate in Archaeology, Durham University and the University of Cambridge (gt278@cam.ac.uk)._

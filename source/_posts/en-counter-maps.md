@@ -12,7 +12,7 @@ tags:
 
 Gísli Pálsson and Oscar Aldred
 _Received 2017-04-04_
-Citation: Pálsson, G., and O. Aldred. 2017 "en-counter-maps". _Epoiesen_ http://dx.doi.org/10.22215/epoiesen/2017.1
+Citation: Pálsson, G., and O. Aldred. 2017. "en-counter-maps". _Epoiesen_ http://dx.doi.org/10.22215/epoiesen/2017.1
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" align="left"/></a><br>
 

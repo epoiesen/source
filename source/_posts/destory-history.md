@@ -10,7 +10,7 @@ doi: "10.22215/epoiesen/2017.4"
 
 Lucas Coyne
 _Received 2017-09-01_
-Citation: Coyne, Lucas. 2017 "Destory History". _Epoiesen_ http://dx.doi.org/10.22215/epoiesen/2017.4
+Citation: Coyne, Lucas. 2017. "Destory History". _Epoiesen_ http://dx.doi.org/10.22215/epoiesen/2017.4
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" align="left" /></a><br />
 
@@ -24,7 +24,7 @@ Nonetheless, this was a tremendous learning opportunity, and I hope that players
 
 Explore [Destory History](http://philome.la/lucaswcoyne/destory-history-v10)
 
-<a href="http://smgjournal.github.io/artefacts/DESTORY_HISTORY.html" target="_blank">Archived Version as of September 1 2017</a>
+<a href="http://epoiesen.github.io/artefacts/DESTORY_HISTORY.html" target="_blank">Archived Version as of September 1 2017</a>
 
 Play [Neville Morley's response](/2017/09/08/destory-history-response1/)
 

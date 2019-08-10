@@ -11,7 +11,7 @@ tags:
 ---
 Alison Langmead
 _Received 2017-07-25_
-Citation: Langmead, Alison. 2017 "en-counter-maps: First Response". _Epoiesen_ http://dx.doi.org/10.22215/epoiesen/2017.2
+Citation: Langmead, Alison. 2017. "en-counter-maps: First Response". _Epoiesen_ http://dx.doi.org/10.22215/epoiesen/2017.2
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" align="left" /></a><br />
 
 _Alison Langmead is Director, Visual Media Workshop, Department of History of Art and Architecture, University of Pittsburgh (adlangmead@pitt.edu). [ORCID: 0000-0002-9159-9797](https://orcid.org/0000-0002-9159-9797)_

@@ -9,7 +9,7 @@ doi: "10.22215/epoiesen/2017.6"
 ---
 Andrew Reinhard
 _Received 2017-05-04_
-Citation: Reinhard, Andrew. 2017 "Publish and Perish". _Epoiesen_ http://dx.doi.org/10.22215/epoiesen/2017.6
+Citation: Reinhard, Andrew. 2017. "Publish and Perish". _Epoiesen_ http://dx.doi.org/10.22215/epoiesen/2017.6
 
 <a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/"> <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" align="left" alt="CC0" />
 </a> <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#"> To the extent possible under law, <a rel="dct:publisher" href="http://orcid.org/0000-0001-7987-8227"> <span property="dct:title">Andrew Reinhard</span></a> has waived all copyright and related or neighboring rights to <span property="dct:title">Publish and Perish (author's write-up about the game)</span>.</p>
@@ -24,7 +24,7 @@ At the 2017 TriBeCa Games Festival, Jonathan Morin of Ubisoft stated that games 
 
 [Explore _Publish and Perish_](http://philome.la/adreinhard/publish-and-perish/play)
 
-<a href="http://smgjournal.github.io/artefacts/PublishandPerish.html" target="_blank">Archived Version as of May 4th 2017</a>
+<a href="http://epoiesen.github.io/artefacts/PublishandPerish.html" target="_blank">Archived Version as of May 4th 2017</a>
 
 Read [Jeremiah McCall's response](/2017/06/06/publish-and-perish-response1/)
 

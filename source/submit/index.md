@@ -12,7 +12,9 @@ Please consider the following points before contacting us about possible submiss
 
 ## File formats
 
-Our preference is for simple formats that can be read by any text editor, but this can be discussed. Text files should be in the Markdown format, any data files preferably should be in json or csv format.
+We prefer simple text files, but this can be discussed. Text files should be in the Markdown format, any data files preferably should be in json or csv format. You may find [this text template helpful](https://raw.githubusercontent.com/epoiesen/templates/master/article.md); copy the text and paste it into a text editor. Edit as appropriate.
+
+Submissions in Word doc format are acceptable, but please do not spend too much time on visually formatting the document, as all .doc files will be converted to plain text in order to generate this site.
 
 ## Writing in markdown
 

@@ -12,7 +12,7 @@ tags:
 
 Shawn Graham
 _Received 2017-09-15_
-Citation: Graham, Shawn. "Truth and Beauty Bombs: First Response" _Epoiesen_ http://dx.doi.org/10.22215/epoiesen/2017.13
+Citation: Graham, Shawn. 2017. "Truth and Beauty Bombs: First Response" _Epoiesen_ http://dx.doi.org/10.22215/epoiesen/2017.13
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" align="left" /></a><br />
 
 _Shawn Graham is an Associate Professor in the Department of History at Carleton University (shawn.graham@carleton.ca). [ORCID: 0000-0002-2887-3554](https://orcid.org/0000-0002-2887-3554)._

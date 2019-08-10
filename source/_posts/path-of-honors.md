@@ -84,6 +84,12 @@ Since this is meant to be a think-piece/prototype, there are so many areas that 
 
 I'd be delighted to talk about your impressions of the project and choice-based text as a medium for history.
 
+## Play
+
+Explore the [Path of Honors](http://www.philome.la/gamingthepast/path-of-honors-1-12-18/play)
+
+<a href="https://epoiesen.github.io/artefacts/McCall-A_Path_of_Honors_1-22-18.html" target="_blank">Archived Version as of January 21 2018</a>
+
 ## Works Cited
 
 Chapman, Adam (2016). Digital Games as History: How Videogames Represent the Past and Offer Access to Historical Practice. London: Routledge.
@@ -91,10 +97,6 @@ Chapman, Adam (2016). Digital Games as History: How Videogames Represent the Pas
 McCall, Jeremiah (2012). Navigating the Problem Space: The Medium of Simulation Games in the Teaching of History. The History Teacher 45, 9-28.
 
 McCall, Jeremiah (2012). Historical simulations as problem spaces: Criticism and classroom use. Journal of Digital Humanities 1.
-
-Explore [Path of Honors](http://www.philome.la/gamingthepast/path-of-honors-1-12-18/play)
-
-<a href="https://smgjournal.github.io/artefacts/McCall-A_Path_of_Honors_1-22-18.html" target="_blank">Archived Version as of January 21 2018</a>
 
 _Cover Image_ A screenshot from the [British Museum Sketchfab account]((https://sketchfab.com/models/dde432311eb748e19e76bbb888fb0730), of a 3d model of a bust of [Julius Caesar](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=465555).
 

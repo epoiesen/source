@@ -6,7 +6,8 @@ cover_detail: /imgs/pic1.jpg
 
 This form searches a [json representation](/tipuesearch/tipuesearch_content.json) of all the text in articles and responses.
 
-<form id="search-form">
-	  <input type="text" name="q" id="tipue_search_input" autocomplete="off" required placeholder="Let's see what we can find." style="width:80%;" />
-	</form>
-<div id="tipue_search_content"></div>
+<form>
+<div class="tipue_search_group">
+<input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required><button type="submit" class="tipue_search_button"><div class="tipue_search_icon">&#9906;</div></button>
+</div>
+</form>
