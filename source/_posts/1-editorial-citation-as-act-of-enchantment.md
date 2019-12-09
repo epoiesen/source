@@ -12,7 +12,7 @@ tags:
 date: 2018-09-10 09:25:19
 ---
 Shawn Graham
-_Written 2017-09-10_
+_Written 2018-09-10_
 
 Citation: Graham, Shawn. 2018. "Editorial Note: Citation as an Act of Enchantment" _Epoiesen_ http://dx.doi.org/10.22215/epoiesen/2018.10
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" align="left" /></a><br />
