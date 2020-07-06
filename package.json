@@ -3,12 +3,12 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.6.0"
+    "version": "3.9.0"
   },
   "dependencies": {
     "ejs": "^2.5.5",
     "g": "^2.0.1",
-    "hexo": "^3.6.0",
+    "hexo": "^3.9.0",
     "hexo-cli": "^1.1.0",
     "hexo-deployer-git": "^0.2.0",
     "hexo-deployer-sftp": "^0.1.0",
