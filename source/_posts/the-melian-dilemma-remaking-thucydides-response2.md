@@ -73,7 +73,7 @@ When the Melians reject the Athenians’ offer, the Athenian ambassadors return 
 
 ![](/imgs/morley/dalborgogame.png)
 
-As a result of this particular interpretation of the narrative, the Melian Dialogue Game App which includes the Athenian and Melian biases has been coded in R using gtree, which was developed by Prof. Dr. Sebastian Kranz, and uploaded to shinyapps.io. This game App will be made available shortly, for readers to play.
+As a result of this particular interpretation of the narrative, the Melian Dialogue Game App which includes the Athenian and Melian biases has been coded in R using gtree, which was developed by Prof. Dr. Sebastian Kranz, and uploaded to shinyapps.io. The app may be played at [https://melos.arch.cam.ac.uk/UltimatumGame/](https://melos.arch.cam.ac.uk/UltimatumGame/).
 
 ## Endnotes
 <b id="f1">1</b> Dal Borgo (2016). [↩](#a1)
@@ -117,6 +117,8 @@ As a result of this particular interpretation of the narrative, the Melian Dialo
 <b id="f20">20</b>  Note the difference between the single reply of the Melians who do not yield to this one thing = “nothing” (οὐδὲν), as opposed to the Athenians at 1.139.2 who do not yield to multiple things = “to any of these” (οὔτε τἆλλα). [↩](#a20)
 
 ## Bibliography
+
+Beard, M. (2010). "Which Thucydides Can You Trust?" _The New York Review of Books_ September 30, 2010.
 
 Bosworth, A. B. (1993). "The Humanitarian Aspect of the Melian Dialogue". _JHS_, 113, 30-44.
 
