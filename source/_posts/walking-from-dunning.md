@@ -3,7 +3,7 @@ title: Walking from Dunning to the Common of Dunning
 author: Given, Michael
 date: 2020-06-18 14:15:53
 cover_index: /imgs/Given/Given00_cover.jpg
-cover_detail: /imgs/Given/Given00_masthead.jpg
+cover_detail: /imgs/Given/Given00_masthead.JPG
 doi: 10.22215/epoiesen/2020.2
 tags:
 - landscape
@@ -16,9 +16,9 @@ Michael Given
 _Received_ July 3rd 2020
 Citation: Given, Michael. 2020. "Walking from Dunning to the Common of Dunning". _Epoiesen_. DOI: http://dx.doi.org/10.22215/epoiesen/2020.2
 
-_Michael Given is Senior Lecturer in Archaeology at the University of Glasgow  (Michael.Given@glasgow.ac.uk). ORCID ID: [https://orcid.org/0000-0002-4450-381X](https://orcid.org/0000-0002-4450-381X)._
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" align="left"/></a><br>
 
-*license TBD*
+_Michael Given is Senior Lecturer in Archaeology at the University of Glasgow  (Michael.Given@glasgow.ac.uk). ORCID ID: [https://orcid.org/0000-0002-4450-381X](https://orcid.org/0000-0002-4450-381X)._
 
 ## Preamble
 On 30 June 2016 I walked from Dunning to the Common of Dunning in the Ochil Hills of Perthshire in central Scotland. My overt aim was to trace the route of the 18th-century (and earlier) cattle and their herders from the lowland farms and estates of Dunning to their shared summer grazing up on the Common of Dunning. Much more than that, though, I wanted to experiment with new ways of engaging with and writing about landscape, moving away from the representation of a supposedly external landscape through photographs, maps and text (Hamilakis, 2013: 195). Instead, my idea was to use those same media to communicate a landscape performed as an active engagement among topography, plants, birds, soils, camera, my walking and sensing body, turf and stone dykes, fieldwalkers, farmers, rocks, colleagues, GPS satellites, memories, weather and many, many more.
@@ -46,6 +46,8 @@ There can be interesting cultural variations in this interaction. Ingold has not
 
 > I was harassed on this slough, by winding about from place to place, to find such tufts as were within my stride or leap, in my heavy boots with high heels; which, by my spring, when the little hillocks were too far asunder, broke the turf, and then I threw myself down toward the next protuberance: but to my guide it seemed nothing; he was light of body, shod with flat brogues, wide in the soles, and accustomed to a particular step, suited to the occasion. (Burt, 1998 [1754]: 166).
 
+<p></p>
+
 Whatever common experiences of boots or tussock-jumping I might have with Edmund Burt, what follows is not phenomenology. I have no claim or desire to represent past human (or indeed bovine) experience based on my own. I am more interested in cultural differences than putative human universals (Johnson, 2012: 277), and reject any Heideggerian nostalgia for local, bounded experience as somehow more 'authentic' than the interconnected world that constitutes human society (Wylie, 2007: 181-82; Ingold, 2011: 12). There is one aspect of the critique of phenomenological approaches in archaeology, however, that is very relevant here. I was, at least on the face of it, a single white male, apparently using his solitary landscape experience to represent that of a range of very different others (Johnson, 2012: 277). This is worth bearing in mind as you read, and I will return to it after the narrative. Perhaps there were other landscape actors up there with me, both human and nonhuman.
 
 The most conspicuous aspect of my methodology was that I was weighed down with kit: a GoPro camera on a large bracket sagging from my shoulder, taking oblique photos of my right ear every minute; a hand-held GPS round my neck recording my route; my SLR camera for when I wanted more purposive photographs; map and compass; and, most importantly, notebook and pen. All this is emphatically not a technological barrier between me and the 'authentic' landscape. Rather, it was all part of the relational landscape: these artefacts and their various digital and analogue products were contributors to that ongoing, continuous negotiation between my feet, legs, muscles and balance, surface textures, paths, terrain, numerical abstractions such as grid references and bearings, and the wider social context (Lorimer and Lund, 2003).
@@ -72,6 +74,7 @@ On my right is a handsome stone field wall, the stonework nicely picked out by t
 The wind in a small sycamore by the road sounds loud in my ears, while distant chaffinches and woodpigeons call from the wood beyond the pea field on my right. The tree up at Scores Farm is still very prominent.
 
 I pass [Millhaugh](https://www.gla.ac.uk/schools/humanities/research/archaeologyresearch/currentresearch/serf/millhaugh/), though I can't quite see the excavations from the road. There's a passing tractor and the continuous rushing sound of the burn at Millhaugh, then a blast of wind from a truck.
+
 '[Maggie Wall](http://www.dunning.uk.net/maggie.html) burnt here as a witch, 1657'. The monument is on a knoll by the road, with a wide view all round, from the Highland line in the North to the Ochils in the South. Many people would have seen her burn.
 
 ![Maggie Wall](/imgs/Given/Given06 Maggie Wall.JPG)
@@ -85,7 +88,7 @@ The avenue sweeps round past the overgrown mill lade, among oaks and beeches, wi
 
 ![Choice](/imgs/Given/Given08 Choice.JPG)
 
-Four years ago, we were invited, and spent an incredibly wet day exploring the 19th-century landscape, carefully arranged to allow glimpses of the castle through the trees, but not trying to hide the complex industrial organisation of the fuller's earth works.
+<p></p>Four years ago, we were invited, and spent an incredibly wet day exploring the 19th-century landscape, carefully arranged to allow glimpses of the castle through the trees, but not trying to hide the complex industrial organisation of the fuller's earth works.
 
 ![Team at Keltie](/imgs/Given/Given09 Team at Keltie.jpg)
 *Survey Team at the fuller's earth tanks, with Keltie Castle behind, 15 August 2012*
@@ -150,7 +153,7 @@ This point seems to mark the end of the enclosures. I've lost the path now; I've
 
 I'm relying on sheep tracks now. They're a bit meandering, and not much more than one boot wide, but they're better than the grassy tussocks and clumps of heather that lie on each side.
 
-Coming over a rise, I catch a first sight of the wind turbines on the far side of Coul Glen. The question I'm trying to figure out is, where did the herders take the cattle from Keltie up to the Common Dunning? The cattle tracks are very clear down by Scores Farm, where the cattle were funnelled between the enclosures. But up here they could spread out across the broad hillslope, so they were never concentrated enough to dig out the parallel V-shaped ditches that mark their repeated passage further down.
+Coming over a rise, I catch a first sight of the wind turbines on the far side of Coul Glen. The question I'm trying to figure out is, where did the herders take the cattle from Keltie up to the Common of Dunning? The cattle tracks are very clear down by Scores Farm, where the cattle were funnelled between the enclosures. But up here they could spread out across the broad hillslope, so they were never concentrated enough to dig out the parallel V-shaped ditches that mark their repeated passage further down.
 
 ![Cattle track](/imgs/Given/Given19 Cattle track.JPG)
 *Cattle creating a track through the bracken on Beldhill, 29 June 2016 (Michael Given)*
@@ -164,7 +167,7 @@ The sheep track wandered away, and I'm now humping over hummocks. There's a grea
 A bit further on, and I'm looking down (with tears in my eyes from the wind) onto the 18th-century enclosures at Hillend, and the long ridgeline running up and South that we surveyed two years ago. One of the rounded knolls ahead of me must be Corb Law, and so beyond them will be the steep-sided Corb Glen. I'm making faster progress than I thought.
 
 ![Cows](/imgs/Given/Given20 Cows.JPG)
-*Cattle at Beldhill, looking across the Hillend enclosures, 29 June 2016 (Michael Given)*
+*Cattle at Beldhill, looking across to the Hillend enclosures, 29 June 2016 (Michael Given)*
 
 The wonderful parachuting song of the skylarks is continually in my ears. I'm coming down to cross a boggy area, where I can see the bog cotton shining white and waving in the wind. It is pleasantly springy underfoot as I squelch across the sphagnum moss, but then I have to do some tussock jumping to stay dry.
 
