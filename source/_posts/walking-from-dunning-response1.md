@@ -15,7 +15,7 @@ tags:
 
 Rose Ferraby
 _Received August 29 2020_
-Citation: Ferraby, Rose. 2020. "Walking from Dunning to the Common of Dunning: First Response" _Epoiesen_ http://dx.doi.org/10.22215/epoiesen/2019.3
+Citation: Ferraby, Rose. 2020. "Walking from Dunning to the Common of Dunning: First Response" _Epoiesen_ http://dx.doi.org/10.22215/epoiesen/2020.3
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" align="left"/></a><br>
 
 _Rose Ferraby is Co-Director, Aldborough Roman Town Project; Faculty of Classics, University of Cambridge (rf255@cam.ac.uk) [ORCID ID: 0000-0002-2490-8713](https://orcid.org/0000-0002-2490-8713)._
